@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Qidong(Richard), a passionate software engineer with a keen interest in Computer Graphics and Computer Vision, also a hardware engineer focusing on the development and integration of high performance heat exchanger for desktop and laptop platforms. I'm dedicated to crafting visually stunning experiences and optimizing hardware for peak performance. Let's code, create, and innovate together!
+
+
+
 <!--
 **RichardSqd/RichardSqd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
